@@ -1,0 +1,74 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="Eslint" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="aiofiles" />
+          <option value="aiogram" />
+          <option value="aiohappyeyeballs" />
+          <option value="aiohttp" />
+          <option value="aioredis" />
+          <option value="aiosignal" />
+          <option value="aiosqlite" />
+          <option value="amqp" />
+          <option value="asgiref" />
+          <option value="async-timeout" />
+          <option value="axios" />
+          <option value="babel" />
+          <option value="billiard" />
+          <option value="celery" />
+          <option value="click-didyoumean" />
+          <option value="click-plugins" />
+          <option value="click-repl" />
+          <option value="djando" />
+          <option value="Django" />
+          <option value="django-cors-headers" />
+          <option value="django-filter" />
+          <option value="djangorestframework" />
+          <option value="djangorestframework_simplejwt" />
+          <option value="dnspython" />
+          <option value="dotenv" />
+          <option value="drf-spectacular" />
+          <option value="drf-yasg" />
+          <option value="email-validator" />
+          <option value="fastapi-admin" />
+          <option value="frozenlist" />
+          <option value="inflection" />
+          <option value="iso8601" />
+          <option value="kombu" />
+          <option value="lxml" />
+          <option value="magic-filter" />
+          <option value="markdown-it-py" />
+          <option value="mdurl" />
+          <option value="multidict" />
+          <option value="npm" />
+          <option value="optional-django" />
+          <option value="pendulum" />
+          <option value="pillow" />
+          <option value="prompt_toolkit" />
+          <option value="propcache" />
+          <option value="psycopg2-binary" />
+          <option value="Pygments" />
+          <option value="PyMySQL" />
+          <option value="pypika-tortoise" />
+          <option value="python-decouple" />
+          <option value="pytz" />
+          <option value="RapidFuzz" />
+          <option value="rich" />
+          <option value="setuptools" />
+          <option value="sqlparse" />
+          <option value="tortoise-orm" />
+          <option value="tzdata" />
+          <option value="tzlocal" />
+          <option value="uritemplate" />
+          <option value="vine" />
+          <option value="wcwidth" />
+          <option value="wheel" />
+          <option value="yarl" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
